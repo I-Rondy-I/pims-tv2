@@ -1,0 +1,17 @@
+version: "3.3"
+
+services:
+  backend:
+    build: ./backend
+    env_file: ./backend/.env
+    ports:
+      - "8000:80"
+        
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:80"
+    volumes:
+      - type: bind
+        source: ./frontend
+        target: /app
