@@ -1,0 +1,14 @@
+
+.element-container {
+    height: 150px;
+    margin: 5px auto 30px;
+    width:150px;
+    border-radius: 100%;
+    display: flex;
+}
+
+.element-container > img {
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 6px;
+}

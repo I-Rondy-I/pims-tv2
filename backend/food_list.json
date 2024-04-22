@@ -1,0 +1,24 @@
+{
+  "food": [
+    {
+      "name": "Ciao Food",
+      "time": "7:50",
+      "message": "Leć do kuchni po kanapki!"
+    },
+    {
+      "name": "Tu Kuba",
+      "time": "8:30",
+      "message": "Leć do kuchni po kanapki!"
+    },
+    {
+      "name": "Smart Lunch",
+      "time": "9:00",
+      "message": "Zamówienie na 9:00 przyjechało!"
+    },
+    {
+      "name": "Smart Lunch",
+      "time": "11:00",
+      "message": "Zamówienie na 11:00 przyjechało!"
+    }
+  ]
+}

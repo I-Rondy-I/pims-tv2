@@ -1,0 +1,13 @@
+.timer-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.timer-wrapper .textTimerDays{
+    font-size: xxx-large;
+}
+
+.timer-wrapper .textTimerEnd{
+    font-size: x-large;
+    color: #CA1010;
+}
